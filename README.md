@@ -114,3 +114,7 @@ To analyze and visualize airline data for operational insights, passenger manage
 ---
 
 > 🔗 *This project demonstrates the use of Power BI to enhance decision-making in the airline industry through data-driven insights and interactive dashboards.*
+
+## 📬 Connect With Me
+*Saraswathi | Data Analyst*  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/saraswathi-gongala-6249a9137/)
